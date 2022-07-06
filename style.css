@@ -30,7 +30,7 @@ text-decoration: solid;
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(white,tomato);
+    background-image: linear-gradient(rgb(201, 16, 16),tomato);
     padding: 15px 40px;
     color: white;
     border-radius: 5px;
